@@ -11,3 +11,4 @@ flask
 flask-babel
 flask-session
 flask-swagger
+flask-swagger-ui
