@@ -17,3 +17,4 @@ apscheduler
 langdetect
 lexilang
 expiringdict
+packaging
