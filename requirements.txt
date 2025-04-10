@@ -7,3 +7,4 @@ pydantic
 argostranslate==1.8.0
 click
 argos-translate-files
+flask
