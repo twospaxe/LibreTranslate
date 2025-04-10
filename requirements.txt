@@ -2,7 +2,7 @@ fastapi
 uvicorn
 requests
 python-multipart
-numpy==1.21.6
+numpy==1.24.4
 pydantic
 argostranslate==1.8.0
 click
