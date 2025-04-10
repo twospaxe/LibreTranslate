@@ -13,3 +13,4 @@ flask-session
 flask-swagger
 flask-swagger-ui
 redis
+apscheduler
