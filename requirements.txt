@@ -5,5 +5,5 @@ python-multipart
 numpy==1.24.4
 pydantic
 argostranslate==1.8.0
-argostranslatefiles
 click
+argos-translate-files
